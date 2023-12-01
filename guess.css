@@ -21,7 +21,7 @@ h3{
     border: 0px;
 }
 body{
-    background-image: url(/IMG/guess.jpeg);
+    background-image: url(guess.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
